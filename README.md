@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://5ug4md.github.io/sugam.codes/](https://5ug4md.github.io/sugam.codes/)
+- 👨‍💻 All of my projects are available at [https://5ug4md.github.io/projects/](https://5ug4md.github.io/projects/)
 
 - 📝 I regularly write articles on [sugam.codes](sugam.codes)
 
