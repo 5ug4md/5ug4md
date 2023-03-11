@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://5ug4md.github.io/projects/](https://5ug4md.github.io/projects/)
 
-- 📝 I regularly write articles on [sugam.codes](sugam.codes)
+- 📝 I regularly write articles on [https://sugam.codes](https://sugam.codes)
 
 - 💬 Ask me about **Python, C, C++**
 
